@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolLib", "SchoolLib\SchoolLib.csproj", "{A2646031-E156-4C4D-B2F7-307F912F5C9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTest", "NUnitTest\NUnitTest.csproj", "{46E901A6-0B22-47F3-8C6F-7737A91FB4CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2646031-E156-4C4D-B2F7-307F912F5C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2646031-E156-4C4D-B2F7-307F912F5C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2646031-E156-4C4D-B2F7-307F912F5C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2646031-E156-4C4D-B2F7-307F912F5C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46E901A6-0B22-47F3-8C6F-7737A91FB4CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46E901A6-0B22-47F3-8C6F-7737A91FB4CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46E901A6-0B22-47F3-8C6F-7737A91FB4CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46E901A6-0B22-47F3-8C6F-7737A91FB4CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13EF092D-F471-45FC-8A9A-74CDD743F04E}
+	EndGlobalSection
+EndGlobal
